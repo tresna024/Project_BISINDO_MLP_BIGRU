@@ -1,8 +1,8 @@
 # 🤟 Project Sign Language Detection using Deep Learning
 
-# Nama : Tresna Hidayah
-# Kelas : TI 3B
-# NIM : 2023573010118
+Nama : Tresna Hidayah
+Kelas : TI 3B
+NIM : 2023573010118
 
 Sistem penerjemah Bahasa Isyarat Indonesia (BISINDO) berbasis **Deep Learning** yang mampu mengenali **huruf (A-Z)**, **angka (0-9)**, serta **kata statis dan dinamis** secara **real-time** menggunakan webcam.
 

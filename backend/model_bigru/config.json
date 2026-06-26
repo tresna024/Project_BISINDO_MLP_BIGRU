@@ -1,0 +1,24 @@
+{
+  "architecture": "bigru",
+  "sequence_length": 30,
+  "processed_features": 254,
+  "classes": [
+    "Kata_Bertemu",
+    "Kata_Bis",
+    "Kata_Mobil",
+    "Selamat_Malam",
+    "Selamat_Pagi",
+    "Selamat_Siang",
+    "Selamat_Sore",
+    "benar",
+    "kamu",
+    "kapan",
+    "makan",
+    "minum",
+    "motor",
+    "sama_sama",
+    "terima_kasih"
+  ],
+  "confidence_threshold_recommended": 0.75,
+  "stability_window_recommended": 5
+}

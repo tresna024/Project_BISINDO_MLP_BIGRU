@@ -1,0 +1,21 @@
+               precision    recall  f1-score   support
+
+ Kata_Bertemu     1.0000    1.0000    1.0000         7
+     Kata_Bis     1.0000    1.0000    1.0000         8
+   Kata_Mobil     1.0000    1.0000    1.0000         7
+Selamat_Malam     1.0000    1.0000    1.0000         8
+ Selamat_Pagi     1.0000    0.8750    0.9333         8
+Selamat_Siang     1.0000    0.8571    0.9231         7
+ Selamat_Sore     0.8000    1.0000    0.8889         8
+        benar     1.0000    0.8750    0.9333         8
+         kamu     1.0000    1.0000    1.0000         7
+        kapan     1.0000    1.0000    1.0000         7
+        makan     1.0000    1.0000    1.0000         8
+        minum     1.0000    1.0000    1.0000         7
+        motor     1.0000    1.0000    1.0000         8
+    sama_sama     1.0000    1.0000    1.0000         7
+ terima_kasih     0.8889    1.0000    0.9412         8
+
+     accuracy                         0.9735       113
+    macro avg     0.9793    0.9738    0.9747       113
+ weighted avg     0.9780    0.9735    0.9738       113
